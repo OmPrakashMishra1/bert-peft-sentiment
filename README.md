@@ -1,5 +1,7 @@
 # Parameter-Efficient Fine-Tuning (PEFT) on BERT
 
+**GitHub Repository**: [bert-peft-sentiment](https://github.com/OmPrakashMishra1/bert-peft-sentiment)
+
 This repository contains the code and experiments for implementing and comparing various Parameter-Efficient Fine-Tuning strategies on `bert-base-uncased` using the SST-2 dataset.
 
 ## Installation

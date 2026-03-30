@@ -1,6 +1,8 @@
 # Parameter-Efficient Fine-Tuning (PEFT) on BERT
 **Project Report**
 
+**GitHub Repository**: [bert-peft-sentiment](https://github.com/OmPrakashMishra1/bert-peft-sentiment)
+
 ## 1. Introduction
 **Problem**: Full fine-tuning of Large Language Models like BERT (`bert-base-uncased`) updates all internal weights. This process is highly computationally expensive, requires significant memory for gradients and optimizer states, and results in a uniquely large modified model per downstream task.
 **Objective**: To implement and compare Parameter-Efficient Fine-Tuning (PEFT) methods against a full fine-tuning baseline, specifically measuring Accuracy, F1 Score, Training Time, and Model Size (trainable parameters).
