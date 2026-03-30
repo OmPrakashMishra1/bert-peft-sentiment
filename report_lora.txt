@@ -1,0 +1,6 @@
+Mode: lora
+Accuracy: 0.4375
+F1 Score: 0.6087
+Trainable Params: 296450 (0.27%)
+Total Params: 109780228
+Training Time: 87.74s

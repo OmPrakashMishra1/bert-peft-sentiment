@@ -1,0 +1,6 @@
+Mode: adapter
+Accuracy: 0.5625
+F1 Score: 0.0000
+Trainable Params: 1191170 (1.08%)
+Total Params: 110673410
+Training Time: 79.08s

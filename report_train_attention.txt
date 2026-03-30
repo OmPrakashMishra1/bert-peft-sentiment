@@ -1,0 +1,6 @@
+Mode: train_attention
+Accuracy: 0.4688
+F1 Score: 0.6222
+Trainable Params: 21262850 (19.42%)
+Total Params: 109483778
+Training Time: 77.51s

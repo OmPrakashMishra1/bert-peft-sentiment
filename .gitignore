@@ -1,0 +1,12 @@
+# Model checkpoints (too large for GitHub)
+results_baseline/
+results_lora/
+results_adapter/
+results_freeze_selective/
+results_train_attention/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env

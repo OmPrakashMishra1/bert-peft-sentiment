@@ -1,0 +1,6 @@
+Mode: freeze_selective
+Accuracy: 0.7188
+F1 Score: 0.7429
+Trainable Params: 43119362 (39.38%)
+Total Params: 109483778
+Training Time: 93.64s

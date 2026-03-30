@@ -1,0 +1,6 @@
+Mode: baseline
+Accuracy: 0.5625
+F1 Score: 0.0000
+Trainable Params: 109483778 (100.00%)
+Total Params: 109483778
+Training Time: 161.51s
